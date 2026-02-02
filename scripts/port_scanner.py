@@ -6,7 +6,7 @@ target = input("Enter target IP address: ")
 print(f"\nScanning target: {target}\n")
 
 # Scan ports from 20 to 100
-for port in range(20, 101):
+for port in range(1, 1025):
     try:
         # Create a TCP socket
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
