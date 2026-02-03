@@ -255,12 +255,12 @@ User.objects.get(id=user_id)
 ## Impact of SQL Injection
 
 ### What Attackers Can Do:
-✅ Steal sensitive data (passwords, credit cards, personal info)  
-✅ Modify or delete data  
-✅ Bypass authentication (login as admin)  
-✅ Execute system commands on the database server  
-✅ Read files from the server  
-✅ Take complete control of the database  
+   Steal sensitive data (passwords, credit cards, personal info)  
+   Modify or delete data  
+   Bypass authentication (login as admin)  
+   Execute system commands on the database server  
+   Read files from the server  
+   Take complete control of the database  
 
 ---
 
