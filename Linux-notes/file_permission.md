@@ -172,7 +172,7 @@ a = all (user, group, and others)
 = = set exact permission
 ```
 
-**Permissions:**
+**Permissions:** 
 ```
 r = read (4)
 w = write (2)
