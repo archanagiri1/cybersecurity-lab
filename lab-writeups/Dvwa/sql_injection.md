@@ -304,12 +304,9 @@ ID: 1'; DROP TABLE users--
 4. **Impact** = Can be catastrophic (data theft, deletion)
 5. **Always test** = But only on systems you own!
 
-### Security Mindset:
-- Never trust user input
-- Always validate and sanitize
-- Use security best practices
-- Keep systems updated
+
 
 ---
+
 
 
