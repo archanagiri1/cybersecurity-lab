@@ -38,7 +38,7 @@ User ID: 1
 **Result:** Shows user information
 
 ### Step 3: Basic SQL Injection
-**Payload:**
+**Payload:** 
 ```sql
 1' OR '1'='1
 ```
